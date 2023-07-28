@@ -20,5 +20,9 @@
   ],
   "scripts": {
     "test": "node ./__tests__/component-lib.test.js"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.45",
+    "element-plus": "^2.3.4"
   }
 }
