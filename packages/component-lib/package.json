@@ -1,6 +1,6 @@
 {
   "name": "component-lib",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "中台基于 element-plus + vue3 的前端组件库",
   "keywords": [
     "vue3",
