@@ -6,3 +6,4 @@ function hello(){
 
 // 大版本变成 1.0.0
 // function
+//测试一下 independent 模式
