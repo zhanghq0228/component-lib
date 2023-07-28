@@ -5,3 +5,4 @@ function hello(){
 
 
 // 大版本变成 1.0.0
+// function
